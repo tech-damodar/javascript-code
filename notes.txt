@@ -1,0 +1,96 @@
+javascript => multipurpose programming language
+    dom
+    bom
+variable
+data type
+control statement
+loop
+function
+array
+object
+
+
+frontend -> html css javascript
+backend -> java,python,c#,php etc..
+
+
+2009-> node js -> javascript runtime enviroment 
+ -> backend 
+ -> machin learning
+
+ -------------------------------------------
+fundamental of js=>
+    variable
+    operator
+    control statement
+    loop
+    array
+    object
+    function
+dom manipulation of js =>
+
+---------------------day1 code -------------------
+<script>
+        // javascript code 
+        // in c&c++,java
+            // int num1
+        // js -> 
+        // let var1 = 12;
+        // let num1 = 33;
+        // console.log("happy learning !!");
+        // console.log(var1,num1);
+        // let name = "damodar"
+        // console.log("my name is : ",name);
+        // console.log("my name : "+name);
+        // console.log(`my name is ${name} and ${num1} year old`)//string templeting
+
+        //operator
+        // + , -,*,/ %
+        // console.log(num1*7);
+        // relational operator
+        //  > < >= <= !=  == 
+        num1 = 12;
+        let num2 = "12";
+        // identity operator(===)
+        console.log(num1 ===  num2)
+        // logiacal operator
+        // && || !
+        // assignment operator (= , += ,-=,*=)
+            num1 +=12; // num1 = num1+12
+        console.log(num1)
+        //increment& decrement opr. (++,--)
+        // control statement 
+        // let age = 18;
+        // console.log(age)
+        // if(age>18){
+        //     console.log("u can vote !!");
+        // }
+        // else{
+        //     console.log("u can't vote !!");
+        // }
+// -----------------------------------------------
+    // loop
+        // for 
+        // while 
+        // do while 
+        // for(i=1;i<=5;i++){
+        //     if(i==4){
+        //         break;
+        //     }
+        //     console.log("happy learning",i)
+        // }
+        let i=1
+        while(i<0){
+            console.log("happy learning",i)
+            i++;
+        }
+        // do{
+        //     console.log("happy learning",i)
+        //     i++;
+        // }while(i<0);
+
+    </script>
+=====================================================
+
+
+
